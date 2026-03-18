@@ -6,18 +6,11 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 # 📅 2026
 
 ## 🔹 Artigos em Eventos
-
-### A Modular Architecture for IoT Monitoring and Data Processing 
-- **Autores:** Luiz Fernando Arruda, João Airton Gomes de Sousa
-- **Evento:** 2026 17th Anais do Computer on the Beach (COTEB)
-- **Status:** Under Review
-- **DOI:** 
-- **Repositório:**
   
 ### High-Performance Parallel Acceleration of Image Processing Filters on Multicore CPUs Using OpenMP  
 - **Autores:** Luiz Fernando Arruda, Gabriel Cremel
 - **Evento:** 2026 17th Anais do Computer on the Beach (COTEB)
-- **Status:** Under Review
+- **Status:** Aceito
 - **DOI:** 
 - **Repositório:**
 
