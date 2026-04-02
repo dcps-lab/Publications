@@ -128,6 +128,47 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Preprint:** 
 - **Repository:** 
 
+# 📅 2021
+
+## 🔹 Conference Papers
+
+### Instantaneous Adaptive Controller Based on Neural Network for Buck Converter 
+- **Authors:** Carlucio Pereira da Silva, **Luiz Fernando Marquez Arruda**, Diego Santos Greff
+- **Affiliation:** GREEN/UFSC - Grupo de Energias Renováveis, Federal University of Santa Catarina
+- **Venue:** Brazillian Power Electronics Conference (COBEP)
+- **Year:** 2021 
+- **Status:** Published  
+- **Submission Date:** 2022-01-24
+- **DOI:** https://doi.org/10.1109/COBEP53665.2021.9684052
+- **Preprint:**
+- **Repository:**
+
+### Controlador Instantâneo Adaptativo Baseado em Rede Neural aplicado a um Conversor Boost  
+- **Authors:** Carlucio Pereira da Silva, **Luiz Fernando Marquez Arruda**, Diego Santos Greff 
+- **Affiliation:** GREEN/UFSC - Grupo de Energias Renováveis, Federal University of Santa Catarina
+- **Venue:** Simpósio Brasileiro de Automação Inteligente
+- **Year:** 2021
+- **Status:** Published
+- **Submission Date:** 2021-10-20  
+- **DOI:** https://doi.org/10.20906/sbai.v1i1.2773
+- **Preprint:**
+- **Repository:**
+
+# 📅 2020
+
+## 🔹 Conference Papers
+
+### Aplicação de redes neurais artificiais para rastreamento de ponto de máxima potência em painel solar aplicado a um conversor Cúk
+- **Authors:** **Luiz Fernando Marquez Arruda**, Moises Ferber de Vieira Lessa, Diego Santos Greff  
+- **Affiliation:** Federal University of Santa Catarina
+- **Venue:** CBA - Congresso Brasileiro de Automática 
+- **Year:** 2020  
+- **Status:** Published
+- **Submission Date:** 2020-12-08
+- **DOI:** https://doi.org/10.48011/asba.v2i1.1015
+- **Preprint:**
+- **Repository:**
+  
 ---
 
 ## 📧 Contato
