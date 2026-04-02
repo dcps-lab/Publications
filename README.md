@@ -1,86 +1,83 @@
-# DCPS Lab — Publicações
+# DCPS Lab — Publications
 
-Este repositório organiza as publicações associadas ao DCPS Lab.
+This repository organizes the publications associated with the DCPS Lab.
 
-As publicações aqui listadas seguem os padrões metodológicos oficiais do laboratório e estão organizadas por categoria e ano.
-
----
-
-# 📚 Categorias
+The publications listed here follow the official methodological standards of the laboratory and are organized by category and year.
 
 ---
 
-## 🔹 Trabalhos de Conclusão de Curso (TCC)
-
-Projetos desenvolvidos no âmbito de orientação acadêmica vinculada ao DCPS Lab.
+# 📚 Categories
 
 ---
 
-## 🔹 Artigos em Eventos, Periódicos,ou Preprints
+## 🔹 Undergraduate Final Projects (TCC)
 
-Publicações aceitas ou submetidas a conferências técnicas, periódicos nacionais ou internacionais, ou versões preliminares publicadas em repositórios como arXiv.
-
-Informações obrigatórias:
-- Título
-- Autores
-- Evento
-- Status (submetido, aceito, publicado) ou declaração de versão preliminar
-- DOI (quando disponível)
-- Link para repositório (quando disponível)
----
-
-
-# 🧾 Política de Publicação
-
-1. Toda publicação deve:
-   - Seguir o framework metodológico do DCPS Lab
-   - Possuir dados rastreáveis
-   - Declarar corretamente a afiliação institucional
-
-2. Dados experimentais não podem ser misturados entre instituições sem acordo formal.
-
-3. Trabalhos derivados de TCC devem indicar claramente sua origem acadêmica.
+Projects developed under academic supervision within the scope of the DCPS Lab.
 
 ---
 
+## 🔹 Conference Papers, Journal Articles, and Preprints
 
-# 📚 Produção Científica
+Publications accepted or submitted to technical conferences, national or international journals, or preliminary versions published in repositories such as arXiv.
 
-A produção científica do DCPS Lab está organizada em repositório dedicado:
-
-🔗 [DCPS Lab — Publicações](https://github.com/dcps-lab/publications/blob/main/PUBLICATIONS.md)
-
-As publicações são organizadas por categoria e ano, com DOI e repositórios vinculados.
-
----
-
-
-
-# 🌍 Visão Estratégica
-
-O DCPS Lab busca consolidar produção científica consistente nas áreas de:
-
-- Sistemas embarcados determinísticos
-- Comunicação segura
-- Sistemas ciberfísicos aplicados à infraestrutura crítica
-- Eletrônica de Potência
+Required information:
+- Title
+- Authors
+- Venue
+- Status (submitted, accepted, published) or preprint declaration
+- DOI (when available)
+- Repository link (when available)
 
 ---
 
-# 📌 Nota Institucional
+# 🧾 Publication Policy
 
-Publicações devem refletir corretamente a instituição de origem dos dados e respeitar acordos acadêmicos vigentes.
+1. All publications must:
+   - Follow the DCPS Lab methodological framework
+   - Contain traceable data
+   - Correctly declare institutional affiliation
+
+2. Experimental data must not be shared across institutions without formal agreement.
+
+3. Works derived from undergraduate projects must clearly indicate their academic origin.
 
 ---
 
-## 📧 Contato
+# 📚 Scientific Output
 
-Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
+The scientific output of the DCPS Lab is organized in a dedicated repository:
+
+🔗 [DCPS Lab — Publications](https://github.com/dcps-lab/publications/blob/main/PUBLICATIONS.md)
+
+Publications are organized by category and year, including DOI and associated repositories.
+
+---
+
+# 🌍 Strategic Vision
+
+The DCPS Lab aims to consolidate consistent scientific output in the following areas:
+
+- Deterministic embedded systems
+- Secure communication
+- Cyber-physical systems applied to critical infrastructure
+- Power electronics
+
+---
+
+# 📌 Institutional Note
+
+Publications must accurately reflect the institution of origin of the data and comply with existing academic agreements.
+
+---
+
+## 📧 Contact
+
+For information regarding collaboration or research projects, please contact the laboratory coordinator.
 
 Prof. Luiz Fernando M. Arruda
 
-e-mail: luiz.arruda@ieee.org
+Email: luiz.arruda@ieee.org
 
 ---
 
-*DCPS Lab — Laboratório de Sistemas Ciberfísicos Determinísticos.*
+*DCPS Lab — Deterministic Cyber-Physical Systems Laboratory.*
