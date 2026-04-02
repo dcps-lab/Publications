@@ -20,12 +20,25 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Repository:** [link if available]
   
 ### High-Performance Parallel Acceleration of Image Processing Filters on Multicore CPUs Using OpenMP  
-- **Autores:** Luiz Fernando Arruda, Gabriel Cremel
+- **Authors:**  Gabriel Diniz Cremel, **Luiz Fernando M. Arruda**
 - **Evento:** 17th Anais do Computer on the Beach (COTEB)
-- **Status:** Aceito
-- **DOI:**
+- **Year:** 2026
+- **Status:** Accepted
+- **Submission Date:** 2026-03-2026
+- **DOI:**  
 - **Preprint:** 
-- **Repositório:**
+- **Repository:**  
+
+##A Modular Architecture for IoT Monitoring and Data Processing  
+- **Authors:**  João Airton Gomes de Sousa, **Luiz Fernando M. Arruda*
+- **Affiliation:** UNIAVAN - Centro Universitario Avantis
+- **Venue:** 17th Anais do Computer on the Beach (COTEB)  
+- **Year:** 2026 
+- **Status:** Submitted  
+- **Submission Date:** 2026-03-08
+- **DOI:** 
+- **Preprint:**
+- **Repository:**
 
 ---
 
