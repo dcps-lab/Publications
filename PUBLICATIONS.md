@@ -170,7 +170,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 ### Controlador Instantâneo Adaptativo Baseado em Rede Neural aplicado a um Conversor Boost  
 - **Authors:** Carlucio Pereira da Silva, **Luiz Fernando Marquez Arruda**, Diego Santos Greff 
 - **Affiliation:** GREEN/UFSC - Grupo de Energias Renováveis, Federal University of Santa Catarina
-- **Venue:** Simpósio Brasileiro de Automação Inteligente
+- **Venue:** XV Simpósio Brasileiro de Automação Inteligente (SBAI)
 - **Year:** 2021
 - **Status:** Published
 - **Submission Date:** 2021-10-20  
