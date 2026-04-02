@@ -33,6 +33,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 
 ## 🔹 Conference Papers
 
+### Efficacy of a Conventional Kalman Filter for Side-Channel-Noise (SNI) Mitigation in an SST-Based Power System 
+- **Authors:** **Luiz Fernando M. Arruda**, Debotrinya Sur, Uzair Asif, Harsha V. R. Modugu, Mohammad Shadmand, Sudip K. Mazumder 
+- **Affiliation:** DCPS Lab — Deterministic Cyber-Physical Systems Laboratory  
+- **Venue:** 12th National Power Electronics Conference (NPEC)
+- **Year:** 2025 
+- **Status:** Published
+- **Submission Date:** 2026-03-27
+- **DOI:** https://10.1109/NPEC66512.2025.11450225
+- **Preprint:** 
+- **Repository:**
+
 ### Comparison of Mppt Algorithms for Photovoltaic Systems Under Irradiance Variations
 - **Authors:** Felipe Schinestzki, Luiz Fernando M. Arruda
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis
@@ -45,7 +56,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Repository:**
   
 ### Gamifying Electronic Trading Through a Minecraft Commodities Exchange
-- **Autores:** Arthô Pacini, Luiz Fernando M. Arruda
+- **Autores:** Arthô Pacini, **Luiz Fernando M. Arruda**
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis 
 - **Venue:** 16th Anais do Computer on the Beach (COTB)
 - **Year:** 2025
@@ -87,6 +98,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **DOI:** https://10.1109/IECON58223.2025.11221333 
 - **Preprint:**
 - **Repository:**
+
 ---
 
 # 📅 2024
@@ -106,9 +118,9 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 ---
 
 ### Ripple Mitigation in Augmented Discontinuous Modulation Scheme-based Differential Mode Inverter 
-- **Authors:** Luiz Fernando M. Arruda, Sadegh Esmaeli Rad, Shantanu Gupta, Sudip K. Mazumder
+- **Authors:** **Luiz Fernando M. Arruda**, Sadegh Esmaeli Rad, Shantanu Gupta, Sudip K. Mazumder
 - **Affiliation:** UIC - University of Illinois Chicago  
-- **Venue:** 50th Annual Conference of the IEEE Industrial Electronics Society
+- **Venue:** 50th Annual Conference of the IEEE Industrial Electronics Society (IECON)
 - **Year:** 2024
 - **Status:** Published
 - **Submission Date:** 2025-03-10
