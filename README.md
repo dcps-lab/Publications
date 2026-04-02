@@ -70,3 +70,17 @@ O DCPS Lab busca consolidar produção científica consistente nas áreas de:
 # 📌 Nota Institucional
 
 Publicações devem refletir corretamente a instituição de origem dos dados e respeitar acordos acadêmicos vigentes.
+
+---
+
+## 📧 Contato
+
+Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
+
+Prof. Luiz Fernando M. Arruda
+
+e-mail: luiz.arruda@ieee.org
+
+---
+
+*DCPS Lab — Laboratório de Sistemas Ciberfísicos Determinísticos.*
