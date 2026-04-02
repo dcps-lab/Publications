@@ -7,6 +7,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 
 ## 🔹 Artigos em Eventos
 
+### Net Energy Efficiency of Solar Trackers: Impact of Control Strategy and Actuation Frequency  
+- **Authors:** Alessandra, Felipe Schinestzki, **Luiz Fernando M. Arruda**
+- **Affiliation:** UNIAVAN - Centro Universitario Avantis
+- **Venue:** 17th Seminar on Power Electronics and Control (SEPOC) 
+- **Year:** 2026
+- **Status:** [Submitted / Under Review / Accepted / Published]  
+- **Submission Date:** [YYYY-MM-DD]  
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Repository:** [link if available]
+
 
 ### Active–Reactive Power Coupling in Grid-Following PV Inverters  
 - **Authors:** **Luiz Fernando M. Arruda**, Roberto Francisco Coelho, Denizar Cruz Martins  
@@ -18,6 +29,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **DOI:** [DOI link if available]  
 - **Preprint:** [arXiv or other link if available]  
 - **Repository:** [link if available]
+
+### Distributed Resilient Control of Modular Multilevel SST based Drives  
+- **Authors:** Debortrinya Sur, **Luiz Fernando M. Arruda** 
+- **Affiliation:** UIC - University of Illinois Chicago
+- **Venue:** International Conference on Intelligent Design and Control of Automation and Drive Systems
+- **Year:** 2026
+- **Status:** Accepted
+- **Submission Date:** 2026-02-22 
+- **DOI:** 
+- **Preprint:**
+- **Repository:**
   
 ### High-Performance Parallel Acceleration of Image Processing Filters on Multicore CPUs Using OpenMP  
 - **Authors:**  Gabriel Diniz Cremel, **Luiz Fernando M. Arruda**
@@ -29,8 +51,8 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Preprint:** 
 - **Repository:**  
 
-##A Modular Architecture for IoT Monitoring and Data Processing  
-- **Authors:**  João Airton Gomes de Sousa, **Luiz Fernando M. Arruda*
+## A Modular Architecture for IoT Monitoring and Data Processing  
+- **Authors:**  João Airton Gomes de Sousa, **Luiz Fernando M. Arruda**
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis
 - **Venue:** 17th Anais do Computer on the Beach (COTEB)  
 - **Year:** 2026 
@@ -57,28 +79,6 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Preprint:** 
 - **Repository:**
 
-### Comparison of Mppt Algorithms for Photovoltaic Systems Under Irradiance Variations
-- **Authors:** Felipe Schinestzki, Luiz Fernando M. Arruda
-- **Affiliation:** UNIAVAN - Centro Universitario Avantis
-- **Venue:** 17th Seminar on Power Electronics and Control (SEPOC) 
-- **Year:** 2025  
-- **Status:** Published
-- **Submission Date:** 2025-12-23  
-- **DOI:** https://10.1109/SEPOC67005.2025.11297635
-- **Preprint:** 
-- **Repository:**
-  
-### Gamifying Electronic Trading Through a Minecraft Commodities Exchange
-- **Autores:** Arthô Pacini, **Luiz Fernando M. Arruda**
-- **Affiliation:** UNIAVAN - Centro Universitario Avantis 
-- **Venue:** 16th Anais do Computer on the Beach (COTB)
-- **Year:** 2025
-- **Status:** Published
-- **Submission Date:** 2025-05-27
-- **DOI:** https://doi.org/10.14210/cotb.v16.p344-351
-- **Preprint:** 
-- **Repository:**
-
 ### Power Factor Correction Strategy Through Angular Phase Shift in Photovoltaic System
 - **Authors:** **Luiz Fernando M. Arruda**, Guilherme Beck Lemos, Roberto Francisco Coelho, Denizar Cruz Martins
 - **Affiliation:** INEP/UFSC Power Electronics Institute, Federal University of Santa Catarina   
@@ -88,6 +88,28 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Submission Date:** 2025-12-23
 - **DOI:** https://10.1109/SEPOC67005.2025.11297721
 - **Preprint:**  
+- **Repository:**
+
+### Comparison of Mppt Algorithms for Photovoltaic Systems Under Irradiance Variations
+- **Authors:** Felipe Schinestzki, **Luiz Fernando M. Arruda**
+- **Affiliation:** UNIAVAN - Centro Universitario Avantis
+- **Venue:** 17th Seminar on Power Electronics and Control (SEPOC) 
+- **Year:** 2025  
+- **Status:** Published
+- **Submission Date:** 2025-12-23  
+- **DOI:** https://10.1109/SEPOC67005.2025.11297635
+- **Preprint:** 
+- **Repository:**
+
+### Impacts of Cyber-Physical Attacks in SST-GFMI-Based Microgrid  
+- **Authors:** Debortrinya Sur, Uzair Asif, Harsha V. R. Modugu, **Luiz Fernando M. Arruda**, Sudip K. Mazumder, Mohammad Shadmand
+- **Affiliation:** UIC - University of Illinois Chicago
+- **Venue:** 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)
+- **Year:** 2025
+- **Status:** Published
+- **Submission Date:** 2025-11-06  
+- **DOI:** https://10.1109/IECON58223.2025.11221333 
+- **Preprint:**
 - **Repository:**
 
 ### Synthetic Inertia in Small Inverters: A New Strategy Based on DC Link Current Control  
@@ -101,17 +123,6 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Preprint:** 
 - **Repository:** 
 
-### Impacts of Cyber-Physical Attacks in SST-GFMI-Based Microgrid  
-- **Authors:** Debortrinya Sur, Uzair Asif, Harsha V. R. Modugu, **Luiz Fernando M. Arruda**, Sudip K. Mazumder, Mohammad Shadmand
-- **Affiliation:** UIC - University of Illinois Chicago
-- **Venue:** 51st Annual Conference of the IEEE Industrial Electronics Society (IECON)
-- **Year:** 2025
-- **Status:** Published
-- **Submission Date:** 2025-11-06  
-- **DOI:** https://10.1109/IECON58223.2025.11221333 
-- **Preprint:**
-- **Repository:**
-
 ### Adaptação da Equação de Swing para Inércia Sintética em Fontes Renováveis
 - **Authors:** **Luiz Fernando M. Arruda**, Guilherme Beck Lemos, Roberto Francisco Coelho, Denizar Cruz Martins
 - **Affiliation:** INEP/UFSC - Power Electronics Institute / Federal University of Santa Catarina
@@ -120,6 +131,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Status:** Accepted
 - **Submission Date:** 2025-02-21
 - **DOI:** 
+- **Preprint:** 
+- **Repository:**
+
+### Gamifying Electronic Trading Through a Minecraft Commodities Exchange
+- **Autores:** Arthô Pacini, **Luiz Fernando M. Arruda**
+- **Affiliation:** UNIAVAN - Centro Universitario Avantis 
+- **Venue:** 16th Anais do Computer on the Beach (COTB)
+- **Year:** 2025
+- **Status:** Published
+- **Submission Date:** 2025-05-27
+- **DOI:** https://doi.org/10.14210/cotb.v16.p344-351
 - **Preprint:** 
 - **Repository:**
 
