@@ -45,3 +45,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Repositório:** https://github.com/luizfmello01/tcc_ssd_yolo
 ---
 
+
+---
+
+## 📧 Contato
+
+Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
+
+Prof. Luiz Fernando M. Arruda
+
+e-mail: luiz.arruda@ieee.org
+
+---
+
+*DCPS Lab — Laboratório de Sistemas Ciberfísicos Determinísticos.*
