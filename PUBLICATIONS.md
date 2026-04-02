@@ -27,7 +27,8 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Year:** 2025  
 - **Status:** Published
 - **Submission Date:** 2025-12-23  
-- **DOI:** 10.1109/SEPOC67005.2025.11297635
+- **DOI:** https://10.1109/SEPOC67005.2025.11297635
+- **Repository:**
   
 ### Gamifying Electronic Trading Through a Minecraft Commodities Exchange
 - **Autores:** Arthô Pacini, Luiz Fernando M. Arruda
@@ -37,6 +38,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Status:** Published
 - **Submission Date:** 2025-05-27
 - **DOI:** https://doi.org/10.14210/cotb.v16.p344-351
+- **Repository:**
 
 ### Power Factor Correction Strategy Through Angular Phase Shift in Photovoltaic System
 - **Authors:** Luiz Fernando M. Arruda, Guilherme Beck Lemos, Roberto Francisco Coelho, Denizar Cruz Martins
@@ -45,7 +47,8 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Year:** 2025  
 - **Status:** Published
 - **Submission Date:** 2025-12-23
-- **DOI:** 10.1109/SEPOC67005.2025.11297721
+- **DOI:** https://10.1109/SEPOC67005.2025.11297721
+- **Repository:**
 ---
 
 # 📅 2024
