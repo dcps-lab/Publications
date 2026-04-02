@@ -1,6 +1,6 @@
-# DCPS Lab — Índice de Publicações
+# DCPS Lab — Publication Index
 
-Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links diretos para DOI, repositórios e versões preliminares.
+This file organizes all publications associated with the DCPS Lab, providing direct links to DOIs, repositories, and preprint versions.
 
 ---
 # 📅 2026
@@ -234,14 +234,14 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
   
 ---
 
-## 📧 Contato
+## 📧 Contact
 
-Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
+For information regarding collaboration or research projects, please contact the laboratory coordinator.
 
 Prof. Luiz Fernando M. Arruda
 
-e-mail: luiz.arruda@ieee.org
+Email: luiz.arruda@ieee.org
 
 ---
 
-*DCPS Lab — Laboratório de Sistemas Ciberfísicos Determinísticos.*
+*DCPS Lab — Deterministic Cyber-Physical Systems Laboratory.*
