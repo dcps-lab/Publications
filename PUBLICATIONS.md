@@ -10,7 +10,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 ### Net Energy Efficiency of Solar Trackers: Impact of Control Strategy and Actuation Frequency  
 - **Authors:** Alessandra Pereira Bregadioli, Felipe Schinestzki, **Luiz Fernando M. Arruda**
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis
-- **Venue:** 17th Seminar on Power Electronics and Control (SEPOC) 
+- **Venue:** 18th Seminar on Power Electronics and Control (SEPOC) 
 - **Year:** 2026
 - **Status:** [Submitted / Under Review / Accepted / Published]  
 - **Submission Date:** [YYYY-MM-DD]  
