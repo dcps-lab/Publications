@@ -112,6 +112,17 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Preprint:**
 - **Repository:**
 
+### Adaptação da Equação de Swing para Inércia Sintética em Fontes Renováveis
+- **Authors:** **Luiz Fernando M. Arruda**, Guilherme Beck Lemos, Roberto Francisco Coelho, Denizar Cruz Martins
+- **Affiliation:** INEP/UFSC - Power Electronics Institute / Federal University of Santa Catarina
+- **Venue:** XI Simpósio Brasileiro de Sistemas Elétricos (SBSE)
+- **Year:** 2025
+- **Status:** Accepted
+- **Submission Date:** 2025-02-21
+- **DOI:** 
+- **Preprint:** 
+- **Repository:**
+
 ---
 
 # 📅 2024
