@@ -5,7 +5,9 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 ---
 # 📅 2026
 
-## 🔹 Artigos em Eventos
+## 🔹 Journal Papers
+
+## 🔹 Conference Papers
 
 ### Net Energy Efficiency of Solar Trackers: Impact of Control Strategy and Actuation Frequency  
 - **Authors:** Alessandra Pereira Bregadioli, Felipe Schinestzki, **Luiz Fernando M. Arruda**
