@@ -20,13 +20,13 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 - **Code Repository:** https://github.com/dcps-lab/res-solar-tracking-efficiency
 
 
-### Active–Reactive Power Coupling in Grid-Following PV Inverters  
+### Análise do Acoplamento P-Q em Inversores Grid-Following sob Controle por Deslocamento de Fase no PLL  
 - **Authors:** **Luiz Fernando M. Arruda**, Roberto Francisco Coelho, Denizar Cruz Martins  
 - **Affiliation:** INEP/UFSC Power Electronics Institute, Federal University of Santa Catarina 
 - **Venue:** XXVI Congresso Brasileiro de Automática (CBA)
 - **Year:** 2026  
-- **Status:** [Submitted / Under Review / Accepted / Published]  
-- **Submission Date:** [YYYY-MM-DD]  
+- **Status:** Submitted 
+- **Submission Date:**  2026-04-20
 - **DOI:** [DOI link if available]  
 - **Preprint:** [arXiv or other link if available]  
 - **Manuscript Repository:** https://github.com/dcps-lab/CBA_Active-Reactive_Power_Coupling_in_Grid-Following_PV_Inverters
