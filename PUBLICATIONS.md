@@ -16,7 +16,7 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 - **Year:** 2026
 - **Status:** [Submitted / Under Review / Accepted / Published]  
 - **Submission Date:** [YYYY-MM-DD]  
-- **DOI:** [DOI link if available]  
+- **DOI:**  
 - **Preprint:** [arXiv or other link if available]  
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-solar-tracking-efficiency
 - **Code Repository:** https://github.com/dcps-lab/res-solar-tracking-efficiency
@@ -29,10 +29,10 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 - **Year:** 2026  
 - **Status:** Submitted 
 - **Submission Date:**  2026-04-20
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **DOI:**
+- **Preprint:**   
 - **Manuscript Repository:** https://github.com/dcps-lab/CBA_Active-Reactive_Power_Coupling_in_Grid-Following_PV_Inverters
-- **Code Repository:** [link if available]
+- **Code Repository:**
 
 ### Distributed Resilient Control of Modular Multilevel SST based Drives  
 - **Authors:** Debortrinya Sur, **Luiz Fernando M. Arruda** 
