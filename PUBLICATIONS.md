@@ -7,13 +7,37 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 
 ## 🔹 Journal Papers
 
+### Real-time Deep Learning Approach for Mitigating Side-Channel Noise Intrusion in an SST
+- **Authors:** Harsha Vardhan Reddy Modugu, Debotrinya Sur, **Luiz Fernando M. Arruda**, Uzair Asif, Silvanus D'silva, Mateo D Roig Greidanus, Shantanu Gupta, Mohammad B. Shadmand, Sudip K. Mazumder
+- **Affiliation:** University of Illinois Chicago
+- **Venue:** IEEE Transactions on Power Electronics
+- **Year:** 2026
+- **Status:** Submitted 
+- **Submission Date:** 2026-01-29 
+- **DOI:** https://doi.org/10.1109/TPEL.2026.3689376
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** [link if available]
+- **Code Repository:** [link if available]
+
+### Multi-Tone Side-Channel Noise Mitigation in an SST
+- **Authors:** Debotrinya Sur, Sudip K. Mazumder, Mateo D. Roig Greidanus, Shantanu Gupta, **Luiz Fernando M. Arruda**
+- **Affiliation:** University of Illinois Chicago
+- **Venue:** IEEE Transactions on Power Electronics
+- **Year:** 2026
+- **Status:** Submitted 
+- **Submission Date:** 2026-02-25 
+- **DOI:** https://doi.org/10.1109/TPEL.2026.3684834 
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** [link if available]
+- **Code Repository:** [link if available]
+
 ## 🔹 Conference Papers
 
 ### Data-Driven Efficiency Mapping for Rapid LLC Resonant Converter Design  
 - **Authors:** **Luiz Fernando M. Arruda**, Skylar Coelho, Mohammad Farsijani, Mohammad B. Shadmand, Sudip K. Mazumder
 - **Affiliation:** University of Illinois Chicago
 - **Venue:** 52st Annual Conference of the IEEE Industrial Electronics Society (IECON)
-- **Year:** [Year]  
+- **Year:** 2026
 - **Status:** Submitted 
 - **Submission Date:** 2026-05-27  
 - **DOI:** [DOI link if available]  
@@ -25,7 +49,7 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 - **Authors:** Mohammad Farsijani, **Luiz Fernando M. Arruda**, Mohammad B. Shadmand, Sudip K. Mazumder
 - **Affiliation:** University of Illinois Chicago
 - **Venue:** 52st Annual Conference of the IEEE Industrial Electronics Society (IECON)
-- **Year:** [Year]  
+- **Year:** 2026
 - **Status:** Submitted 
 - **Submission Date:** 2026-05-27  
 - **DOI:** [DOI link if available]  
@@ -64,7 +88,7 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 - **Year:** 2026
 - **Status:** Accepted
 - **Submission Date:** 2026-02-22 
-- **DOI:** 
+- **DOI:** https://doi.org/10.1109/IDCD69431.2026.11519440
 - **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/ICDC_Distributed_Resilient_Control_of_Modular_Multilevel_SST_based_Drives
 - **Code Repository:**
