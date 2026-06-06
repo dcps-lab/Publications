@@ -1,6 +1,6 @@
 # DCPS Lab — Publication Index
 
-This file organizes all publications associated with the DCPS Lab, providing direct links to DOIs, repositories, and preprint versions.
+This file organizes all publications associated with the **Luiz Fernando M. Arruda**, providing direct links to DOIs, repositories, and preprint versions.
 
 ---
 # 📅 2026
@@ -9,7 +9,7 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 
 ### Real-time Deep Learning Approach for Mitigating Side-Channel Noise Intrusion in an SST
 - **Authors:** Harsha Vardhan Reddy Modugu, Debotrinya Sur, **Luiz Fernando M. Arruda**, Uzair Asif, Silvanus D'silva, Mateo D Roig Greidanus, Shantanu Gupta, Mohammad B. Shadmand, Sudip K. Mazumder
-- **Affiliation:** University of Illinois Chicago
+- **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** IEEE Transactions on Power Electronics
 - **Year:** 2026
 - **Status:** Submitted 
@@ -21,7 +21,7 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 
 ### Multi-Tone Side-Channel Noise Mitigation in an SST
 - **Authors:** Debotrinya Sur, Sudip K. Mazumder, Mateo D. Roig Greidanus, Shantanu Gupta, **Luiz Fernando M. Arruda**
-- **Affiliation:** University of Illinois Chicago
+- **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** IEEE Transactions on Power Electronics
 - **Year:** 2026
 - **Status:** Submitted 
