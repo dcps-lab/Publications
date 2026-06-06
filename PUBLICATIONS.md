@@ -9,18 +9,41 @@ This file organizes all publications associated with the DCPS Lab, providing dir
 
 ## 🔹 Conference Papers
 
-### Net Energy Efficiency of Solar Trackers: Impact of Control Strategy and Actuation Frequency  
-- **Authors:** Alessandra Pereira Bregadioli, Felipe Schinestzki, **Luiz Fernando M. Arruda**
+### Data-Driven Efficiency Mapping for Rapid LLC Resonant Converter Design  
+- **Authors:** **Luiz Fernando M. Arruda**, Skylar Coelho, Mohammad Farsijani, Mohammad B. Shadmand, Sudip K. Mazumder
+- **Affiliation:** University of Illinois Chicago
+- **Venue:** 52st Annual Conference of the IEEE Industrial Electronics Society (IECON)
+- **Year:** [Year]  
+- **Status:** Submitted 
+- **Submission Date:** 2026-05-27  
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** https://github.com/dcps-lab/IECON-Data-Driven-Efficiency-Mapping-for-Rapid-LLC-Resonant-Converter-Design
+- **Code Repository:** [link if available]
+
+### A Novel High-Efficiency 48V to 1V Converter for GPU Applications Using Resonant Topology
+- **Authors:** Mohammad Farsijani, **Luiz Fernando M. Arruda**, Mohammad B. Shadmand, Sudip K. Mazumder
+- **Affiliation:** University of Illinois Chicago
+- **Venue:** 52st Annual Conference of the IEEE Industrial Electronics Society (IECON)
+- **Year:** [Year]  
+- **Status:** Submitted 
+- **Submission Date:** 2026-05-27  
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** [link if available]
+- **Code Repository:** [link if available]
+
+### Comparative Analysis of Fixed, Single-Axis, and Dual-Axis Photovoltaic Systems 
+- **Authors:** Alessandra Pereira Bregadioli, **Luiz Fernando M. Arruda**
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis
 - **Venue:** 18th Seminar on Power Electronics and Control (SEPOC) 
 - **Year:** 2026
-- **Status:** [Submitted / Under Review / Accepted / Published]  
-- **Submission Date:** [YYYY-MM-DD]  
-- **DOI:**  
+- **Status:** Submitted
+- **Submission Date:** 2026-06-01
+- **DOI:** [DOI link if available]  
 - **Preprint:** [arXiv or other link if available]  
-- **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-solar-tracking-efficiency
-- **Code Repository:** https://github.com/dcps-lab/res-solar-tracking-efficiency
-
+- **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Comparative-Analysis-of-Fixed-Single-Axis-and-Dual-Axis-Photovoltaic-Systems
+- **Code Repository:** 
 
 ### Análise do Acoplamento P-Q em Inversores Grid-Following sob Controle por Deslocamento de Fase no PLL  
 - **Authors:** **Luiz Fernando M. Arruda**, Roberto Francisco Coelho, Denizar Cruz Martins  
