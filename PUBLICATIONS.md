@@ -111,7 +111,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Accepted
 - **Submission Date:** 2026-03-2026
-- **DOI:**  
+- **DOI:** https://doi.org/10.14210/cotb.v17.p432-439
 - **Preprint:** 
 - **Manuscript Repository:** https://github.com/dcps-lab/COTB_High-Performance_Parallel_Acceleration_of_Image_Processing
 - **Code Repository:**
