@@ -12,24 +12,24 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** IEEE Transactions on Power Electronics
 - **Year:** 2026
-- **Status:** Submitted 
+- **Status:** Published 
 - **Submission Date:** 2026-01-29 
 - **DOI:** https://doi.org/10.1109/TPEL.2026.3689376
-- **Preprint:** [arXiv or other link if available]  
-- **Manuscript Repository:** [link if available]
-- **Code Repository:** [link if available]
+- **Preprint:**   
+- **Manuscript Repository:** 
+- **Code Repository:** 
 
 ### Multi-Tone Side-Channel Noise Mitigation in an SST
 - **Authors:** Debotrinya Sur, Sudip K. Mazumder, Mateo D. Roig Greidanus, Shantanu Gupta, **Luiz Fernando M. Arruda**
 - **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** IEEE Transactions on Power Electronics
 - **Year:** 2026
-- **Status:** Submitted 
+- **Status:** SubmiPublishedtted 
 - **Submission Date:** 2026-02-25 
 - **DOI:** https://doi.org/10.1109/TPEL.2026.3684834 
-- **Preprint:** [arXiv or other link if available]  
-- **Manuscript Repository:** [link if available]
-- **Code Repository:** [link if available]
+- **Preprint:**
+- **Manuscript Repository:** 
+- **Code Repository:**
 
 ## 🔹 Conference Papers
 
@@ -39,11 +39,11 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Venue:** 18th Seminar on Power Electronics and Control (SEPOC)
 - **Year:** 2026
 - **Status:** Submitted
-- **Submission Date:** [YYYY-MM-DD]  
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **Submission Date:** 2026-07-10
+- **DOI:**   
+- **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-A-Multi-Port-Inverter-for-Reactive-Power-Compensation-and-Synthetic-Inertia-Support
-- **Code Repository:** [link if available]
+- **Code Repository:** 
 
 ### Comparative Analysis of Fixed, Single-Axis, and Dual-Axis Photovoltaic Systems
 - **Authors:** Alessandra Pereira Bregadioli, **Luiz Fernando M. Arruda**
@@ -52,10 +52,10 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Submitted
 - **Submission Date:** 2026-07-13
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **DOI:**
+- **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Comparative-Analysis-of-Fixed-Single-Axis-and-Dual-Axis-Photovoltaic-Systems
-- **Code Repository:** [link if available]
+- **Code Repository:**
 
 ### Determination of the Optimal Tracking Update Interval for Energy-Efficient Solar Trackers 
 - **Authors:** Felipe Schinestzki, **Luiz Fernando M. Arruda**  
@@ -64,11 +64,10 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026 
 - **Status:** Submitted  
 - **Submission Date:** 2026-12-07
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **DOI:**  
+- **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Determination-of-the-Optimal-Tracking-Update-Interval-for-Energy-Efficient-Solar-Trackers
-- **Code Repository:** [link if available]
-
+- **Code Repository:** 
 
 ### Data-Driven Efficiency Mapping for Rapid LLC Resonant Converter Design  
 - **Authors:** **Luiz Fernando M. Arruda**, Skylar Coelho, Mohammad Farsijani, Mohammad B. Shadmand, Sudip K. Mazumder
@@ -77,10 +76,10 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Submitted 
 - **Submission Date:** 2026-05-27  
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **DOI:**
+- **Preprint:** 
 - **Manuscript Repository:** https://github.com/dcps-lab/IECON-Data-Driven-Efficiency-Mapping-for-Rapid-LLC-Resonant-Converter-Design
-- **Code Repository:** [link if available]
+- **Code Repository:** 
 
 ### A Novel High-Efficiency 48V to 1V Converter for GPU Applications Using Resonant Topology
 - **Authors:** Mohammad Farsijani, **Luiz Fernando M. Arruda**, Mohammad B. Shadmand, Sudip K. Mazumder
@@ -89,9 +88,9 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Submitted 
 - **Submission Date:** 2026-05-27  
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
-- **Manuscript Repository:** [link if available]
+- **DOI:**  
+- **Preprint:** 
+- **Manuscript Repository:** 
 - **Code Repository:** [link if available]
 
 ### Comparative Analysis of Fixed, Single-Axis, and Dual-Axis Photovoltaic Systems 
@@ -101,8 +100,8 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Submitted
 - **Submission Date:** 2026-06-01
-- **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **DOI:** 
+- **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Comparative-Analysis-of-Fixed-Single-Axis-and-Dual-Axis-Photovoltaic-Systems
 - **Code Repository:** 
 
@@ -111,10 +110,10 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** INEP/UFSC Power Electronics Institute, Federal University of Santa Catarina 
 - **Venue:** XXVI Congresso Brasileiro de Automática (CBA)
 - **Year:** 2026  
-- **Status:** Submitted 
+- **Status:** Accepted 
 - **Submission Date:**  2026-04-20
 - **DOI:**
-- **Preprint:**   
+- **Preprint:** 
 - **Manuscript Repository:** https://github.com/dcps-lab/CBA_Active-Reactive_Power_Coupling_in_Grid-Following_PV_Inverters
 - **Code Repository:**
 
@@ -123,7 +122,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** International Conference on Intelligent Design and Control of Automation and Drive Systems (IDCD)
 - **Year:** 2026
-- **Status:** Accepted
+- **Status:** Published
 - **Submission Date:** 2026-02-22 
 - **DOI:** https://doi.org/10.1109/IDCD69431.2026.11519440
 - **Preprint:**
@@ -134,7 +133,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Authors:**  Gabriel Diniz Cremel, **Luiz Fernando M. Arruda**
 - **Evento:** 17th Anais do Computer on the Beach (COTEB)
 - **Year:** 2026
-- **Status:** Accepted
+- **Status:** Published
 - **Submission Date:** 2026-03-2026
 - **DOI:** https://doi.org/10.14210/cotb.v17.p432-439
 - **Preprint:** 
@@ -146,7 +145,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** UNIAVAN - Centro Universitario Avantis
 - **Venue:** 17th Anais do Computer on the Beach (COTEB)  
 - **Year:** 2026 
-- **Status:** Submitted  
+- **Status:** Rejected  
 - **Submission Date:** 2026-03-08
 - **DOI:** 
 - **Preprint:**
@@ -224,9 +223,9 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** INEP/UFSC - Power Electronics Institute / Federal University of Santa Catarina
 - **Venue:** XI Simpósio Brasileiro de Sistemas Elétricos (SBSE)
 - **Year:** 2025
-- **Status:** Accepted
+- **Status:** Published
 - **Submission Date:** 2025-02-21
-- **DOI:** 
+- **DOI:** https://10.29327/1842969.1-155
 - **Preprint:** 
 - **Manuscript Repository:** https://github.com/dcps-lab/SBSE_Adaptacao_da_Equacao_de_Swing_para_Inercia_Sintetica_em_Fontes_Renovaveis
 - **Code Repository:**
@@ -256,7 +255,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2024  
 - **Status:** Published
 - **Submission Date:** 2024-05-28  
-- **DOI:** 10.14210/cotb.v15.p118-125
+- **DOI:** https://10.14210/cotb.v15.p118-125
 - **Preprint:**
 - **Manuscript Repository:** https://github.com/dcps-lab/COTB_Analise_Comparativa_de_Algoritmos_de_Deteccao_de_Objetos
 - **Code Repository:** https://github.com/luizfmello01/tcc_ssd_yolo
