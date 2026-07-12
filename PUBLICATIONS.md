@@ -33,17 +33,42 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 
 ## 🔹 Conference Papers
 
-### A Multi-Port Photovoltaic Inverter for Simultaneous Reactive Power Compensation and Synthetic Inertia Support
+### A Multi-Port Photovoltaic Grid-Following Inverter with Reactive Power Compensation, Synthetic Inertia, and Active Power Decouplin
 - **Authors:** **Luiz Fernando M. Arruda**, Roberto F. Coelho, Denizar Cruz Martins
 - **Affiliation:** INEP/UFSC Power Electronics Institute, Federal University of Santa Catarina 
 - **Venue:** 18th Seminar on Power Electronics and Control (SEPOC)
 - **Year:** 2026
-- **Status:** [Submitted / Under Review / Accepted / Published]  
+- **Status:** Submitted
 - **Submission Date:** [YYYY-MM-DD]  
 - **DOI:** [DOI link if available]  
 - **Preprint:** [arXiv or other link if available]  
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-A-Multi-Port-Inverter-for-Reactive-Power-Compensation-and-Synthetic-Inertia-Support
 - **Code Repository:** [link if available]
+
+### Comparative Analysis of Fixed, Single-Axis, and Dual-Axis Photovoltaic Systems
+- **Authors:** Alessandra Pereira Bregadioli, **Luiz Fernando M. Arruda**
+- **Affiliation:** UNIAVAN - Centro Universitario Avantis
+- **Venue:** 18th Seminar on Power Electronics and Control (SEPOC) 
+- **Year:** 2026
+- **Status:** Submitted
+- **Submission Date:** 2026-07-13
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Comparative-Analysis-of-Fixed-Single-Axis-and-Dual-Axis-Photovoltaic-Systems
+- **Code Repository:** [link if available]
+
+### Determination of the Optimal Tracking Update Interval for Energy-Efficient Solar Trackers 
+- **Authors:** Felipe Schinestzki, **Luiz Fernando M. Arruda**  
+- **Affiliation:** Centro Universitário Avantis - UNIAVAN  
+- **Venue:** 18th Seminar on Power Electronics and Control (SEPOC)
+- **Year:** 2026 
+- **Status:** Submitted  
+- **Submission Date:** 2026-12-07
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** https://github.com/dcps-lab/SEPOC-Determination-of-the-Optimal-Tracking-Update-Interval-for-Energy-Efficient-Solar-Trackers
+- **Code Repository:** [link if available]
+
 
 ### Data-Driven Efficiency Mapping for Rapid LLC Resonant Converter Design  
 - **Authors:** **Luiz Fernando M. Arruda**, Skylar Coelho, Mohammad Farsijani, Mohammad B. Shadmand, Sudip K. Mazumder
