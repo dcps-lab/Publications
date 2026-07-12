@@ -31,6 +31,18 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Manuscript Repository:** 
 - **Code Repository:**
 
+### A Lightweight ANN Framework for Real Time MPPT in Solar PV Systems Using Low Cost Pyranometers
+- **Authors:** **Luiz Fernando M. Arruda**, Diego Santos Greff, Moises Ferber V. Lessa
+- **Affiliation:** GREEN/UFSC Renewable Energy Group, Federal University of Santa Catarina 
+- **Venue:** IEEE Transactions on Industrial Informatics
+- **Year:** 2026
+- **Status:** Under Review
+- **Submission Date:** 2026-06-09 
+- **DOI:** [DOI link if available]  
+- **Preprint:** [arXiv or other link if available]  
+- **Manuscript Repository:** [link if available]
+- **Code Repository:** [link if available]
+
 ## 🔹 Conference Papers
 
 ### A Multi-Port Photovoltaic Grid-Following Inverter with Reactive Power Compensation, Synthetic Inertia, and Active Power Decouplin
