@@ -14,7 +14,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Published 
 - **Submission Date:** 2026-01-29 
-- **DOI:** https://doi.org/10.1109/TPEL.2026.3689376
+- **DOI:** [10.1109/TPEL.2026.3689376](https://doi.org/10.1109/TPEL.2026.3689376)
 - **Preprint:** [arXiv or other link if available]  
 - **Manuscript Repository:** [link if available]
 - **Research Repository:** [link if available]
@@ -24,9 +24,9 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Affiliation:** UIC - University of Illinois Chicago
 - **Venue:** IEEE Transactions on Power Electronics
 - **Year:** 2026
-- **Status:** SubmiPublishedtted 
+- **Status:** Published 
 - **Submission Date:** 2026-02-25 
-- **DOI:** https://doi.org/10.1109/TPEL.2026.3684834 
+- **DOI:** [10.1109/TPEL.2026.3684834](https://doi.org/10.1109/TPEL.2026.3684834 )
 - **Preprint:** [arXiv or other link if available]  
 - **Manuscript Repository:** [link if available]
 - **Research Repository:** [link if available]
@@ -39,7 +39,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Status:** Rejected
 - **Submission Date:** 2026-06-09 
 - **DOI:** [DOI link if available]  
-- **Preprint:** [arXiv or other link if available]  
+- **Preprint:** [10.48550/arXiv.2510.10313](https://doi.org/10.48550/arXiv.2510.10313)
 - **Manuscript Repository:** [link if available]
 - **Research Repository:** [link if available]
 
@@ -136,7 +136,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Published
 - **Submission Date:** 2026-02-22 
-- **DOI:** https://doi.org/10.1109/IDCD69431.2026.11519440
+- **DOI:** [10.1109/IDCD69431.2026.11519440](https://doi.org/10.1109/IDCD69431.2026.11519440)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/ICDC_Distributed_Resilient_Control_of_Modular_Multilevel_SST_based_Drives
 - **Research Repository:** [link if available]
@@ -147,7 +147,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2026
 - **Status:** Published
 - **Submission Date:** 2026-03-2026
-- **DOI:** https://doi.org/10.14210/cotb.v17.p432-439
+- **DOI:** [10.14210/cotb.v17.p432-439](https://doi.org/10.14210/cotb.v17.p432-439)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/COTB_High-Performance_Parallel_Acceleration_of_Image_Processing
 - **Research Repository:** [link if available]
@@ -177,7 +177,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025 
 - **Status:** Published
 - **Submission Date:** 2026-03-27
-- **DOI:** https://10.1109/NPEC66512.2025.11450225
+- **DOI:** [10.1109/NPEC66512.2025.11450225](https://doi.org/10.1109/NPEC66512.2025.11450225)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/NPEC_Kalman_Filter-Based_Mitigation_of_SNI_in_SST_Systems
 - **Research Repository:** [link if available]
@@ -189,7 +189,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025  
 - **Status:** Published
 - **Submission Date:** 2025-12-23
-- **DOI:** https://10.1109/SEPOC67005.2025.11297721
+- **DOI:** [10.1109/SEPOC67005.2025.11297721](https://doi.org/10.1109/SEPOC67005.2025.11297721)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC_Power_Factor_Correction_Strategy_through_Angular_Phase_Shift_in_Photovoltaic_System
 - **Research Repository:** [link if available]
@@ -201,7 +201,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025  
 - **Status:** Published
 - **Submission Date:** 2025-12-23  
-- **DOI:** https://10.1109/SEPOC67005.2025.11297635
+- **DOI:** [10.1109/SEPOC67005.2025.11297635](https://doi.org/10.1109/SEPOC67005.2025.11297635)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/SEPOC_Comparison_of_MPPT_Algorithms_for_PV_Under_Irradiance_Variations
 - **Research Repository:** [link if available]
@@ -213,7 +213,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025
 - **Status:** Published
 - **Submission Date:** 2025-11-06  
-- **DOI:** https://10.1109/IECON58223.2025.11221333 
+- **DOI:** [10.1109/IECON58223.2025.11221333](https://doi.org/10.1109/IECON58223.2025.11221333)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/IECON_Impacts_of_Cyber-Physical_Attacks_in_SST-GFMI-Based
 - **Research Repository:** [link if available]
@@ -225,7 +225,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025  
 - **Status:** Published
 - **Submission Date:** 2026-02-03
-- **DOI:** https://10.1109/COBEP66423.2025.11369972  
+- **DOI:** [10.1109/COBEP66423.2025.11369972](https://doi.org/10.1109/COBEP66423.2025.11369972)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/COBEP_Synthetic_Inertia_in_Small_Inverters_A_New_Strategy
 - **Research Repository:** 
@@ -237,7 +237,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025
 - **Status:** Published
 - **Submission Date:** 2025-02-21
-- **DOI:** https://10.29327/1842969.1-155
+- **DOI:** [10.29327/1842969.1-155](https://doi.org/10.29327/1842969.1-155)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/SBSE_Adaptacao_da_Equacao_de_Swing_para_Inercia_Sintetica_em_Fontes_Renovaveis
 - **Research Repository:** [link if available]
@@ -249,7 +249,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2025
 - **Status:** Published
 - **Submission Date:** 2025-05-27
-- **DOI:** https://doi.org/10.14210/cotb.v16.p344-351
+- **DOI:** [10.14210/cotb.v16.p344-351](https://doi.org/10.14210/cotb.v16.p344-351)
 - **Preprint:** 
 - **Manuscript Repository:** https://github.com/dcps-lab/COTB_Gamifying_Electronic_Trading_Through_a_Minecraft_Commodities
 - **Research Repository:** [link if available]
@@ -267,7 +267,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2024  
 - **Status:** Published
 - **Submission Date:** 2024-05-28  
-- **DOI:** https://10.14210/cotb.v15.p118-125
+- **DOI:** [10.14210/cotb.v15.p118-125](https://doi.org/10.14210/cotb.v15.p118-125)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/COTB_Analise_Comparativa_de_Algoritmos_de_Deteccao_de_Objetos
 - **Research Repository:** https://github.com/luizfmello01/tcc_ssd_yolo
@@ -280,7 +280,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2024
 - **Status:** Published
 - **Submission Date:** 2025-03-10
-- **DOI:** https://10.1109/IECON55916.2024.10905239  
+- **DOI:** [10.1109/IECON55916.2024.10905239](https://doi.org/10.1109/IECON55916.2024.10905239)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/IECON_Ripple_Mitigation_in_Augmented_Discontinuous_Modulation_Scheme
 - **Research Repository:** [link if available]
@@ -296,7 +296,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2021 
 - **Status:** Published  
 - **Submission Date:** 2022-01-24
-- **DOI:** https://doi.org/10.1109/COBEP53665.2021.9684052
+- **DOI:** [10.1109/COBEP53665.2021.9684052](https://doi.org/10.1109/COBEP53665.2021.9684052)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/COBEP_Instantaneous_Adaptive_Controller_Based_on_Neural_Network-for_Buck_Converter
 - **Research Repository:** [link if available]
@@ -308,7 +308,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2021
 - **Status:** Published
 - **Submission Date:** 2021-10-20  
-- **DOI:** https://doi.org/10.20906/sbai.v1i1.2773
+- **DOI:** [10.20906/sbai.v1i1.2773](https://doi.org/10.20906/sbai.v1i1.2773)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/SBAI_Controlador_Instantaneo_Baseado_em_Rede_Neural_para_o_Conversor_Boost
 - **Research Repository:** [link if available]
@@ -324,7 +324,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 - **Year:** 2020  
 - **Status:** Published
 - **Submission Date:** 2020-12-08
-- **DOI:** https://doi.org/10.48011/asba.v2i1.1015
+- **DOI:** [10.48011/asba.v2i1.1015](https://doi.org/10.48011/asba.v2i1.1015)
 - **Preprint:** [arXiv or other link if available]
 - **Manuscript Repository:** https://github.com/dcps-lab/CBA_Aplica-o_de_RNA_no_MPPT_de_Conversor_Cuk
 - **Research Repository:** [link if available]
