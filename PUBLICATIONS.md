@@ -45,7 +45,7 @@ This file organizes all publications associated with the **Luiz Fernando M. Arru
 
 ## 🔹 Conference Papers
 
-### A Multi-Port Photovoltaic Grid-Following Inverter with Reactive Power Compensation, Synthetic Inertia, and Active Power Decouplin
+### A Multi-Port Photovoltaic Grid-Following Inverter with Reactive Power Compensation, Synthetic Inertia, and Active Power Decoupling
 - **Authors:** **Luiz Fernando M. Arruda**, Roberto F. Coelho, Denizar Cruz Martins
 - **Affiliation:** INEP/UFSC Power Electronics Institute, Federal University of Santa Catarina 
 - **Venue:** 18th Seminar on Power Electronics and Control (SEPOC)
